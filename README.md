@@ -1,2 +1,19 @@
-# web-site-barbearia
-Web site Barbearia Alura, criado no desafio da Oracle Education one 
+
+# Bem vindo(a) ao web site Barbearia Alura
+
+- Criado no desafio da Oracle Education one, juntamente com a Alura.
+
+## Nessse site use aprenas HTML5 e CSS3
+
+<div style="display: inline_block"> <br>
+  <img align="center" alt="LeandroAzevedo-1-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="LeandroAzevedo-1-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
+</div> <br>
+
+-  HTML5 usei diversas tags semântica 
+-  CSS3 Trabalhei com display flex e o display grid 
+-  Site totalamente resposivo 
+
+ [Clique aqui e veja o Resultadado]{https://leandroazevedo-1.github.io/web-site-barbearia/}
+
+
