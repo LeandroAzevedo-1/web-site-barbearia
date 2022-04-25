@@ -10,9 +10,9 @@
   <img align="center" alt="LeandroAzevedo-1-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
 </div> <br>
 
--  HTML5 usei diversas tags semântica 
+-  HTML5 usei diversas tags semânticas 
 -  CSS3 Trabalhei com display flex e o display grid 
--  Site totalamente resposivo 
+-  Site totalamente responsivo 
 
 <a href="https://leandroazevedo-1.github.io/web-site-barbearia/" target="_blank">Clique aqui e veja o Resultadado</a>
 
