@@ -14,6 +14,7 @@
 -  CSS3 Trabalhei com display flex e o display grid 
 -  Site totalamente resposivo 
 
- [Clique aqui e veja o Resultadado]{https://leandroazevedo-1.github.io/web-site-barbearia/}
+<a href="https://leandroazevedo-1.github.io/web-site-barbearia/" target="_blank">Clique aqui e veja o Resultadado</a>
+
 
 
