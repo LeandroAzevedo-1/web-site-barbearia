@@ -1,0 +1,33 @@
+@media screen and (max-width: 940px){
+    .mapa-conteudo{
+        width: 90%;
+    }
+    /* contato */
+    .contato-main {
+       margin: 0 10px;
+    }
+}
+@media screen and (max-width: 480px) {
+    header {
+        padding: 20px 0;
+    }
+    header nav a {
+        font-size: 16px;
+    }
+    .caixa, .principal, .video{
+        width: 90%;
+    }
+    .principal{
+        padding: 2%;
+    }
+    .beneficios-conteudo{
+        display: block;
+        text-align: center;
+        
+    }
+    .imagem-beneficios {
+        width: 90%;
+        margin-top: 20px;
+    }
+}
+

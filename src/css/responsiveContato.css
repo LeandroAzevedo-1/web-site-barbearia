@@ -1,0 +1,23 @@
+@media screen and (max-width: 1000px){
+   .contato-main {
+       width: 100%;
+       margin: 5%;
+   } 
+}
+@media screen and (max-width: 570px) {
+    .input-padrao, .contato-main {
+        width: 90%;
+    }
+    nav {
+        margin-bottom: 10px;
+    }
+    nav ul li a {
+        font-size: 16px;
+        margin: 5px;
+        
+    }
+    
+    .enviar {
+        width: 90%;
+    }
+}
